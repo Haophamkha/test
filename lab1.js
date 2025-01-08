@@ -14,3 +14,5 @@ if(markHigherBMI ==true)
     console.log("Mark cao hơn")
 else
     console.log("Mark thấp hơn") 
+
+var a=1
